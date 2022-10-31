@@ -10,7 +10,38 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 335 Contributions in the Year 2022
+ > 
+> 📦 87.6 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 43 Public Repositories 
+ > 
+> 🔑 6 Private Repositories  
+ > 
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               10 repos            ████████░░░░░░░░░░░░░░░░░   34.48% 
+Dart                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Vue                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
+
+```
+
+
+
+ Last Updated on 31/10/2022 03:22:38 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
