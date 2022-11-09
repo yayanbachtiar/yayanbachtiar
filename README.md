@@ -10,7 +10,7 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C156%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C163%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,17 +57,17 @@ Sunday       54 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       25 hrs 54 mins      █████████████████░░░░░░░░   68.2% 
-Vue.js                   6 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
-Bash                     2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.6% 
-Other                    1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
-Markdown                 42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
+Go                       25 hrs 3 mins       ██████████████████░░░░░░░   71.53% 
+Vue.js                   6 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
+Bash                     2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.0% 
+Markdown                 31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.48% 
+Protocol Buffer          23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
 
 🔥 Editors: 
-VS Code                  37 hrs 59 mins      █████████████████████████   100.0%
+VS Code                  35 hrs 1 min        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      37 hrs 59 mins      █████████████████████████   100.0%
+Mac                      35 hrs 1 min        █████████████████████████   100.0%
 
 ```
 
@@ -84,7 +84,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2022 00:35:47 UTC
+ Last Updated on 09/11/2022 00:36:50 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
