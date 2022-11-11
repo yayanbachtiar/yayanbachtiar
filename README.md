@@ -10,7 +10,7 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C169%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C170%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -28,6 +28,49 @@
  > 
 > 🔑 6 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    86 commits     ██████░░░░░░░░░░░░░░░░░░░   24.09% 
+🌆 Daytime    53 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
+🌃 Evening    145 commits    ██████████░░░░░░░░░░░░░░░   40.62% 
+🌙 Night      73 commits     █████░░░░░░░░░░░░░░░░░░░░   20.45%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
+Tuesday      50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
+Wednesday    78 commits     █████░░░░░░░░░░░░░░░░░░░░   21.85% 
+Thursday     33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.24% 
+Friday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
+Saturday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
+Sunday       54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.13%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Go                       16 hrs 22 mins      █████████████████░░░░░░░░   68.37% 
+Vue.js                   6 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   25.42% 
+Bash                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69% 
+Protocol Buffer          23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61% 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96%
+
+🔥 Editors: 
+VS Code                  23 hrs 56 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      23 hrs 56 mins      █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -41,7 +84,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2022 00:36:24 UTC
+ Last Updated on 11/11/2022 00:39:19 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
