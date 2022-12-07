@@ -10,7 +10,7 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C171%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C174%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -18,9 +18,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 405 Contributions in the Year 2022
+> 🏆 406 Contributions in the Year 2022
  > 
-> 📦 88.3 kB Used in GitHub's Storage 
+> 📦 88.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -57,13 +57,16 @@ Sunday       55 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       2 hrs 59 mins       ███████████████████████░░   94.49% 
+Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.48% 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 10 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
@@ -80,7 +83,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2022 00:28:27 UTC
+ Last Updated on 07/12/2022 00:30:55 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
