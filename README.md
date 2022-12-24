@@ -10,7 +10,7 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C186%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C191%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 459 Contributions in the Year 2022
+> 🏆 461 Contributions in the Year 2022
  > 
 > 📦 88.9 kB Used in GitHub's Storage 
  > 
@@ -57,17 +57,17 @@ Sunday       59 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       1 hr 32 mins        ███████████████████████░░   95.1% 
-Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.56% 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11% 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+Go                       2 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.79% 
+Bash                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
+Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.51% 
+Vue.js                   47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.22%
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        █████████████████████████   100.0%
+VS Code                  6 hrs 2 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 36 mins        █████████████████████████   100.0%
+Mac                      6 hrs 2 mins        █████████████████████████   100.0%
 
 ```
 
@@ -84,7 +84,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/12/2022 00:29:29 UTC
+ Last Updated on 24/12/2022 00:25:42 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
