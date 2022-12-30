@@ -10,7 +10,7 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C203%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C205%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -57,17 +57,17 @@ Sunday       59 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       5 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   32.03% 
-TypeScript               5 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   31.84% 
-GraphQL                  1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.82% 
-Vue.js                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.6% 
-Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   5.69%
+TypeScript               5 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   30.76% 
+Go                       5 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   30.43% 
+GraphQL                  2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
+Vue.js                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.54% 
+Other                    1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   5.5%
 
 🔥 Editors: 
-VS Code                  18 hrs 9 mins       █████████████████████████   100.0%
+VS Code                  18 hrs 47 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      18 hrs 9 mins       █████████████████████████   100.0%
+Mac                      18 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
@@ -84,7 +84,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2022 00:31:24 UTC
+ Last Updated on 30/12/2022 00:31:13 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
