@@ -10,7 +10,7 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C212%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C212%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 24 Contributions in the Year 2023
+> 🏆 36 Contributions in the Year 2023
  > 
 > 📦 88.9 kB Used in GitHub's Storage 
  > 
@@ -28,6 +28,49 @@
  > 
 > 🔑 6 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    100 commits    ██████░░░░░░░░░░░░░░░░░░░   25.91% 
+🌆 Daytime    63 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.32% 
+🌃 Evening    166 commits    ██████████░░░░░░░░░░░░░░░   43.01% 
+🌙 Night      57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.77%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
+Tuesday      55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.25% 
+Wednesday    69 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.88% 
+Thursday     39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.1% 
+Friday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.25% 
+Saturday     52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.47% 
+Sunday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.77%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Go                       4 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   42.77% 
+Vue.js                   2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   23.43% 
+Other                    1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.11% 
+GraphQL                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
+JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.68%
+
+🔥 Editors: 
+VS Code                  10 hrs 43 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      10 hrs 43 mins      █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -41,7 +84,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2023 00:31:06 UTC
+ Last Updated on 04/01/2023 00:30:40 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
