@@ -10,7 +10,7 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C345%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C353%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,13 +55,18 @@ Sunday                   5999 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       4 hrs 9 mins        ██████████████░░░░░░░░░░░   56.84 % 
+Makefile                 1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+Vue.js                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+GraphQL                  28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+go.mod                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+GoLand                   6 hrs 17 mins       ██████████████████████░░░   86.15 % 
+WebStorm                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      7 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +82,7 @@ Dart                     5 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 16/05/2023 00:33:26 UTC
+ Last Updated on 17/05/2023 00:36:06 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
