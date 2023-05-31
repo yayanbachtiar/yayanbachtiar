@@ -10,7 +10,7 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C397%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C408%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,18 +55,18 @@ Sunday                   5999 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       12 hrs 5 mins       █████████████░░░░░░░░░░░░   52.16 % 
-Vue.js                   7 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.05 % 
-JavaScript               2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-DockerIgnore file        14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-SQL                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Go                       19 hrs 32 mins      ██████████████░░░░░░░░░░░   55.74 % 
+Vue.js                   11 hrs              ████████░░░░░░░░░░░░░░░░░   31.40 % 
+JavaScript               2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+GraphQL                  41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+DockerIgnore file        14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 🔥 Editors: 
-GoLand                   13 hrs 9 mins       ██████████████░░░░░░░░░░░   56.78 % 
-WebStorm                 10 hrs              ███████████░░░░░░░░░░░░░░   43.22 % 
+GoLand                   21 hrs 9 mins       ███████████████░░░░░░░░░░   60.31 % 
+WebStorm                 13 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   39.69 % 
 
 💻 Operating System: 
-Mac                      23 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +82,7 @@ Dart                     5 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 30/05/2023 00:35:58 UTC
+ Last Updated on 31/05/2023 00:37:40 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
