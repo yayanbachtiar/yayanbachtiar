@@ -10,7 +10,7 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C535%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C542%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,17 +55,17 @@ Sunday                   6137 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       5 hrs 13 mins       ██████████████████████░░░   89.20 % 
-Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-SQL                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Env File                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Go                       11 hrs 27 mins      ███████████████████████░░   93.43 % 
+Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+SQL                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Env File                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-GoLand                   5 hrs 51 mins       █████████████████████████   100.00 % 
+GoLand                   12 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +81,7 @@ Dart                     5 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 01/07/2023 00:46:05 UTC
+ Last Updated on 02/07/2023 00:43:41 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
