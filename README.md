@@ -10,7 +10,7 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C603%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C609%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 89.1 kB Used in GitHub's Storage 
+> 📦 89.2 kB Used in GitHub's Storage 
  > 
 > 🏆 169 Contributions in the Year 2023
  > 
@@ -55,18 +55,18 @@ Sunday                   6205 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       16 hrs 40 mins      ██████████████░░░░░░░░░░░   56.73 % 
-Vue.js                   8 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.60 % 
-Text                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-JavaScript               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Go                       18 hrs 11 mins      ██████████████░░░░░░░░░░░   57.91 % 
+Vue.js                   9 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.02 % 
+Text                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+JavaScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-GoLand                   19 hrs 53 mins      █████████████████░░░░░░░░   67.69 % 
-WebStorm                 9 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.31 % 
+GoLand                   21 hrs 32 mins      █████████████████░░░░░░░░   68.55 % 
+WebStorm                 9 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
 
 💻 Operating System: 
-Mac                      29 hrs 23 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +82,7 @@ Dart                     5 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 14/07/2023 00:42:33 UTC
+ Last Updated on 15/07/2023 00:41:32 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
