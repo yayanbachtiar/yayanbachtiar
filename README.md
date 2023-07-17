@@ -18,15 +18,15 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 89.2 kB Used in GitHub's Storage 
+> 📦 90.7 kB Used in GitHub's Storage 
  > 
-> 🏆 169 Contributions in the Year 2023
+> 🏆 170 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
 > 📜 43 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 9 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -72,17 +72,17 @@ Mac                      27 hrs 53 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Go                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-Dart                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Go                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Dart                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 16/07/2023 00:46:10 UTC
+ Last Updated on 17/07/2023 00:45:15 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
