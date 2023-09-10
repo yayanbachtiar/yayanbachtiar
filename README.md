@@ -10,9 +10,9 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C822%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C827%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.3%20million%20lines%20of%20code-blue)
 
@@ -55,18 +55,18 @@ Sunday                   6295 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       20 hrs 54 mins      ██████████████████████░░░   87.47 % 
-Vue.js                   1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-Makefile                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Go                       24 hrs 18 mins      ██████████████████████░░░   86.56 % 
+Vue.js                   2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Makefile                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Markdown                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-GoLand                   22 hrs 1 min        ███████████████████████░░   92.11 % 
-WebStorm                 1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+GoLand                   25 hrs 31 mins      ███████████████████████░░   90.92 % 
+WebStorm                 2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
 
 💻 Operating System: 
-Mac                      23 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +82,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2023 00:31:08 UTC
+ Last Updated on 10/09/2023 00:33:49 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
