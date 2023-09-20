@@ -10,7 +10,7 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C857%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C864%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 90.7 kB Used in GitHub's Storage 
+> 📦 90.8 kB Used in GitHub's Storage 
  > 
 > 🏆 176 Contributions in the Year 2023
  > 
@@ -55,18 +55,18 @@ Sunday                   6295 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       19 hrs 13 mins      ██████████████████░░░░░░░   71.90 % 
-Vue.js                   2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-SQL                      2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
-JavaScript               1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-Text                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Go                       19 hrs 56 mins      ███████████████████░░░░░░   76.30 % 
+Vue.js                   2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+SQL                      2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+GraphQL                  17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-GoLand                   22 hrs 39 mins      █████████████████████░░░░   84.80 % 
-WebStorm                 4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+GoLand                   22 hrs 43 mins      ██████████████████████░░░   86.91 % 
+WebStorm                 3 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 
 💻 Operating System: 
-Mac                      26 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +82,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2023 00:33:07 UTC
+ Last Updated on 20/09/2023 00:32:40 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
