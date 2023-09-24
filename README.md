@@ -10,9 +10,9 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C893%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C898%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.3%20million%20lines%20of%20code-blue)
 
@@ -55,19 +55,19 @@ Sunday                   6295 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       38 hrs 5 mins       ██████████████████████░░░   88.80 % 
-SQL                      2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-GraphQL                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Vue.js                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-TypeScript               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Go                       41 hrs 36 mins      ███████████████████████░░   90.13 % 
+SQL                      1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+GraphQL                  40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Vue.js                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+TypeScript               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-GoLand                   41 hrs 41 mins      ████████████████████████░   97.19 % 
-VS Code                  45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-WebStorm                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+GoLand                   44 hrs 21 mins      ████████████████████████░   96.10 % 
+VS Code                  1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+WebStorm                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
-Mac                      42 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      46 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +83,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2023 00:30:48 UTC
+ Last Updated on 24/09/2023 00:35:51 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
