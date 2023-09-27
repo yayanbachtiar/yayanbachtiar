@@ -10,7 +10,7 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C900%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C906%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,19 +55,19 @@ Sunday                   6295 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       39 hrs 27 mins      ███████████████████████░░   93.49 % 
-GraphQL                  40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Go                       39 hrs 5 mins       ███████████████████████░░   92.92 % 
+GraphQL                  40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 Vue.js                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Markdown                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 TypeScript               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-GoLand                   40 hrs 24 mins      ████████████████████████░   95.73 % 
-VS Code                  1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+GoLand                   40 hrs 15 mins      ████████████████████████░   95.72 % 
+VS Code                  1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
 WebStorm                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 💻 Operating System: 
-Mac                      42 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      42 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +83,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2023 00:33:12 UTC
+ Last Updated on 27/09/2023 00:32:53 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
