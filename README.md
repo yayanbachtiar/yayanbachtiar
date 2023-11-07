@@ -55,7 +55,7 @@ Sunday                   6333 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       24 hrs 38 mins      ████████████████░░░░░░░░░   64.93 % 
+Go                       24 hrs 38 mins      ████████████████░░░░░░░░░   64.94 % 
 TypeScript               3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 Dart                     2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 Markdown                 2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
@@ -67,7 +67,7 @@ VS Code                  9 hrs 15 mins       ██████░░░░░�
 WebStorm                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      37 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +83,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2023 00:34:34 UTC
+ Last Updated on 07/11/2023 00:33:06 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
