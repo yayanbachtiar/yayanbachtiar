@@ -10,11 +10,9 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C128%20hrs%203%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-45.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -28,48 +26,6 @@
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                9658 commits        ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-🌆 Daytime                7604 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-🌃 Evening                14670 commits       █████████░░░░░░░░░░░░░░░░   35.15 % 
-🌙 Night                  9804 commits        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   5110 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Tuesday                  7247 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-Wednesday                6276 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Thursday                 6261 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Friday                   4495 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Saturday                 6014 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Sunday                   6333 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Go                       22 hrs 48 mins      ████████████████████░░░░░   79.24 % 
-SQL                      2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Vue.js                   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-TypeScript               29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Dart                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-
-🔥 Editors: 
-GoLand                   25 hrs 37 mins      ██████████████████████░░░   89.02 % 
-WebStorm                 2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-VS Code                  1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-
-💻 Operating System: 
-Mac                      28 hrs 47 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -83,7 +39,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2023 00:34:01 UTC
+ Last Updated on 23/11/2023 00:34:30 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
