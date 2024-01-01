@@ -20,7 +20,7 @@
 
 > 📦 89.7 kB Used in GitHub's Storage 
  > 
-> 🏆 188 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -82,7 +82,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 00:36:59 UTC
+ Last Updated on 01/01/2024 00:38:22 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
