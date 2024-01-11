@@ -10,7 +10,7 @@
 - 📫 How to reach me **abiedoank@gmail.com**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C268%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C273%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -55,15 +55,15 @@ Sunday                   6399 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       14 hrs 45 mins      ██████████████████████░░░   86.70 % 
-Bash                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Go                       15 hrs 19 mins      ███████████████████████░░   90.05 % 
+Bash                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 TypeScript               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 Vue.js                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 Docker                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-GoLand                   14 hrs 56 mins      ██████████████████████░░░   87.70 % 
-VS Code                  1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+GoLand                   15 hrs 30 mins      ███████████████████████░░   91.13 % 
+VS Code                  53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 WebStorm                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 💻 Operating System: 
@@ -83,7 +83,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2024 00:34:57 UTC
+ Last Updated on 11/01/2024 00:34:56 UTC
 <!--END_SECTION:waka-->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qtu2k4v3mbxp7clcmm6imuqq6e&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
